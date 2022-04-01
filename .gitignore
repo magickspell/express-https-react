@@ -1,0 +1,6 @@
+build
+node_modules
+.cert.pem
+file.tar.gz
+selfsigned.crt
+selfsigned.key
