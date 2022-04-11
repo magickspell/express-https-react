@@ -1,0 +1,108 @@
+{
+    "water": [
+        {
+            "code": "vitamin_b1",
+            "name": "Витамин B1"
+        },
+        {
+            "code": "vitamin_b2",
+            "name": "Витамин B2"
+        },
+        {
+            "code": "vitamin_b3",
+            "name": "Витамин B3"
+        },
+        {
+            "code": "vitamin_b5",
+            "name": "Витамин B5"
+        },
+        {
+            "code": "vitamin_b6",
+            "name": "Витамин B6"
+        },
+        {
+            "code": "vitamin_b7",
+            "name": "Витамин B7"
+        },
+        {
+            "code": "vitamin_b9",
+            "name": "Витамин B9"
+        },
+        {
+            "code": "vitamin_b12",
+            "name": "Витамин B12"
+        },
+        {
+            "code": "vitamin_c",
+            "name": "Витамин C"
+        }
+    ],
+    "fat": [
+        {
+            "code": "vitamin_a",
+            "name": "Витамин A"
+        },
+        {
+            "code": "vitamin_d",
+            "name": "Витамин D"
+        },
+        {
+            "code": "vitamin_e",
+            "name": "Витамин E"
+        },
+        {
+            "code": "vitamin_k",
+            "name": "Витамин K"
+        }
+    ],
+    "microelements": [
+        {
+            "code": "microelement_c",
+            "name": "Углерод"
+        },
+        {
+            "code": "microelement_ca",
+            "name": "Кальций"
+        },
+        {
+            "code": "microelement_cl",
+            "name": "Хлор"
+        },
+        {
+            "code": "microelement_cu",
+            "name": "Медь"
+        },
+        {
+            "code": "microelement_fe",
+            "name": "Железо"
+        },
+        {
+            "code": "microelement_mg",
+            "name": "Магний "
+        },
+        {
+            "code": "microelement_mn",
+            "name": "Марганец"
+        },
+        {
+            "code": "microelement_n",
+            "name": "Азот"
+        },
+        {
+            "code": "microelement_p",
+            "name": "Фосфор"
+        },
+        {
+            "code": "microelement_s",
+            "name": "Сера"
+        },
+        {
+            "code": "microelement_si",
+            "name": "Кремний"
+        },
+        {
+            "code": "microelement_zn",
+            "name": "Цинк"
+        }
+    ]
+}
